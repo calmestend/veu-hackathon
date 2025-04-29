@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `role` integer NOT NULL;
